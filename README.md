@@ -5,6 +5,8 @@
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
 <img width="10%" height="10%" src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png"/>
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>
+<img width="10%" height="10%" src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg"/>
+<img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
 
 </p>
 # Certifications
