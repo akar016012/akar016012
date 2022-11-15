@@ -1,7 +1,8 @@
 # Programming Languages
-<img width="10%" height="10%" src="https://www.pngmart.com/files/7/Python-Transparent-Background.png"/>
+<p>
+<img width="30%" height="30%" src="https://www.pngmart.com/files/7/Python-Transparent-Background.png"/>
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
-
+</p>
 # Certifications
 <p>
 <img width="150" height="150" src="https://images.credly.com/size/340x340/images/4d894b46-a6c9-430f-bad4-75ccb7288bf9/image.png"/>
