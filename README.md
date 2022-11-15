@@ -1,4 +1,4 @@
-# Programming Languages
+## Programming Languages
 <p>
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 <img width="10%" height="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
@@ -9,9 +9,8 @@
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
 <img width="10%" height="10%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"/>
 <img width="10%" height="10%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/>
-  
 </p>
-# Certifications
+## Certifications
 <p>
 <img width="150" height="150" src="https://images.credly.com/size/340x340/images/4d894b46-a6c9-430f-bad4-75ccb7288bf9/image.png"/>
 <img width="150" height="150" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
