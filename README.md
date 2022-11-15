@@ -2,7 +2,7 @@
 <p>
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 <img width="20%" height="20%" src="https://www.pngmart.com/files/7/Python-Transparent-Background.png"/>
-<img width="20%" height="20%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+<img width="10%" height="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
 
 </p>
 # Certifications
