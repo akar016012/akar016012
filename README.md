@@ -3,8 +3,8 @@
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 <img width="10%" height="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
-<img width="20%" height="20%" src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png"/>
-<img width="20%" height="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>
+<img width="10%" height="10%" src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png"/>
+<img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>
 
 </p>
 # Certifications
