@@ -10,6 +10,7 @@
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
 <img width="10%" height="10%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"/>
 <img width="10%" height="10%" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/>
+<img width="20%" height="20%" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"/>
 </p>
 
 <h2>Certifications</h2>
