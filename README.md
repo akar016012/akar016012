@@ -27,4 +27,5 @@
 <img width="120" height="120" src="https://images.credly.com/size/340x340/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png"/>
 </P>
 <p>
+<img width="120" height="120" src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png"/>
 </p>
