@@ -21,7 +21,7 @@
 <img width="120" height="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
 </p>
 <p>
-<img width="120" height="120" src="https://media.discordapp.net/attachments/892730124942848023/1041989986607706164/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png"/>
+<img width="120" height="120" src="https://cdn.discordapp.com/attachments/892730124942848023/1149017525443637278/CompTIA_Security_2Bce-PhotoRoom.png-PhotoRoom.png"/>
 <img width="120" height="120" src="https://media.discordapp.net/attachments/892730124942848023/1041987715199143946/CompTIA_Network_2Bce.png"/>
 <img width="120" height="120" src="https://media.discordapp.net/attachments/892730124942848023/1041987232812236800/My_project_2.png"/>
 <img width="120" height="120" src="https://images.credly.com/size/340x340/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png"/>
