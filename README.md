@@ -17,8 +17,8 @@
 
 <p>
 <img width="120" height="120" src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"/>
-<img width="120" height="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
 <img width="120" height="120" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/> 
+<img width="120" height="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
 </p>
 <p>
 <img width="120" height="120" src="https://media.discordapp.net/attachments/892730124942848023/1041989986607706164/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png"/>
