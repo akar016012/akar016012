@@ -71,18 +71,19 @@
 </p>
 
 <h2 >Certifications</h2>
-<p>Microsoft Certified: Azure Fundamentals</p>
-<p>AWS Certified Cloud Practitioner</p>
-<p>CompTIA Security+ Certification</p>
-<p>CompTIA A+ Certification</p>
-<p>Microsoft Certified: Azure Administrator Associate</p>
-<p>CompTIA Network+ Certification</p>
-<p>CompTIA IT Operations Specialist – CIOS Stackable</p>
-<p>CompTIA Secure Infrastructure Specialist – CSIS Stackable</p>
-<p>Certified in Cybersecurity (CC)</p>
-<p>CompTIA IT Fundamentals (ITF+)</p>
-<p>Cloud Web Applications Development, University of Central Oklahoma</p>
-<p>Digital Accessibility Foundations, University of Central Oklahoma</p>
+<img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20%20Azure%20Fundamentals-%230D7FC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%230D7FC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B%20Certification-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20A%2B%20Certification-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20Network%2B%20Certification-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20IT%20Operations%20Specialist%20–%20CIOS%20Stackable-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20Secure%20Infrastructure%20Specialist%20–%20CSIS%20Stackable-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(CC)-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20(ITF%2B)-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud%20Web%20Applications%20Development,%20University%20of%20Central%20Oklahoma-%230D7FC0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Digital%20Accessibility%20Foundations,%20University%20of%20Central%20Oklahoma-%230D7FC0?style=for-the-badge">
+
 
 
 
