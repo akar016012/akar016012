@@ -72,7 +72,6 @@
 </p>
 
 <h2 >Certifications</h2>
-<p>
 <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20%20Azure%20Fundamentals-%23FFA420?style=flat"/>
 <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23AF2B1E?style=flat"/>
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B%20Certification-%2325221B?style=flat">
@@ -85,4 +84,4 @@
 <img src="https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20(ITF%2B)-%23FFA420?style=flat">
 <img src="https://img.shields.io/badge/Cloud%20Web%20Applications%20Development,%20University%20of%20Central%20Oklahoma-%23AF2B1E?style=flat">
 <img src="https://img.shields.io/badge/Digital%20Accessibility%20Foundations,%20University%20of%20Central%20Oklahoma-%2325221B?style=flat">
-</p>
+
