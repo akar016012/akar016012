@@ -1,7 +1,7 @@
 # Aditya Kar
 [![](https://visitcount.itsvg.in/api?id=akar016012&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<img src="https://img.shields.io/badge/My%20Resume-000?label=Download&link=https%3A%2F%2Fwww.adiportfolio.com%2FImages%2FAditya%2520Kar-Resume.pdf"/>
+<a href="google.com" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000?label=Download"/></a>
 
 <h2 >GitHub Stats</h2>
 <p>
