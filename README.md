@@ -73,17 +73,16 @@
 
 <h2 >Certifications</h2>
 <p>
-<img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20%20Azure%20Fundamentals-%23FFC0CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B%20Certification-%2390EE90?style=for-the-badge">
-<img src="https://img.shields.io/badge/CompTIA%20A%2B%20Certification-%23ADD8E6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-%23E0FFFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/CompTIA%20Network%2B%20Certification-%23F08080?style=for-the-badge">
-<img src="https://img.shields.io/badge/CompTIA%20IT%20Operations%20Specialist%20–%20CIOS%20Stackable-%23FA8072?style=for-the-badge">
-<img src="https://img.shields.io/badge/CompTIA%20Secure%20Infrastructure%20Specialist%20–%20CSIS%20Stackable-%23FFA07A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(CC)-%23FFB6C1?style=for-the-badge">
-<img src="https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20(ITF%2B)-%23FFDEAD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud%20Web%20Applications%20Development,%20University%20of%20Central%20Oklahoma-%23FFE4E1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Digital%20Accessibility%20Foundations,%20University%20of%20Central%20Oklahoma-%23FFFACD?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20%20Azure%20Fundamentals-%23FFA420?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23AF2B1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B%20Certification-%2325221B?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20A%2B%20Certification-%2325221B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-%23434750?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20Network%2B%20Certification-%2384C3BE?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20IT%20Operations%20Specialist%20–%20CIOS%20Stackable-%2320214F?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20Secure%20Infrastructure%20Specialist%20–%20CSIS%20Stackable-%23C35831?style=for-the-badge">
+<img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(CC)-%232271B3?style=for-the-badge">
+<img src="https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20(ITF%2B)-%23FFA420?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud%20Web%20Applications%20Development,%20University%20of%20Central%20Oklahoma-%23AF2B1E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Digital%20Accessibility%20Foundations,%20University%20of%20Central%20Oklahoma-%2325221B?style=for-the-badge">
 </p>
