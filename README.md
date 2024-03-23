@@ -1,4 +1,4 @@
-# Aditya Kar
+# Aditya Kar 🧑‍💻
 [![](https://visitcount.itsvg.in/api?id=akar016012&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://www.adiportfolio.com/Images/Aditya%20Kar-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000?label=Download"/></a>
