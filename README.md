@@ -1,5 +1,5 @@
 # Aditya Kar 🧑‍💻 
-<a href="https://www.linkedin.com/in/aditya-k-89656b119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/aditya-k-89656b119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <hr>
 <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTION-1-blue"/>
 https://github.com/supabase/supabase/pull/26495
