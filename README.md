@@ -1,5 +1,9 @@
-# Aditya Kar 🧑‍💻
-https://www.linkedin.com/in/aditya-k-89656b119/
+# Aditya Kar 🧑‍💻 
+<a href="https://www.linkedin.com/in/aditya-k-89656b119/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<hr>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTION-1-blue"/>
+
+
 [![](https://visitcount.itsvg.in/api?id=akar016012&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://www.adiportfolio.com/Images/Aditya%20Kar-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000?label=Download"/></a>
