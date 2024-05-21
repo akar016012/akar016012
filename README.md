@@ -3,7 +3,7 @@
 <hr>
 <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTION-1-blue"/>
 https://github.com/supabase/supabase/pull/26495
-
+<hr>
 
 [![](https://visitcount.itsvg.in/api?id=akar016012&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
