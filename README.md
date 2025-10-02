@@ -17,10 +17,14 @@
 
 <hr>
 
-<!-- Open Source Contribution -->
-<img src="https://img.shields.io/badge/Open%20Source%20Contribution-blue?style=for-the-badge&logo=github" height="30"/>
-<a href="https://github.com/supabase/supabase/pull/26495" target="_blank">supabase/supabase/pull/26495</a>
+## 🔥 Open Source Contributions
 
+### ✅ Merged
+- [Supabase #26495](https://github.com/supabase/supabase/pull/26495)
+
+### ⏳ Open PRs
+- [OpenAI-GO #528](https://github.com/openai/openai-go/pull/528)
+- [OpenAI-GO #527](https://github.com/openai/openai-go/pull/527)
 <hr>
 
 <h2>GitHub Stats</h2>
